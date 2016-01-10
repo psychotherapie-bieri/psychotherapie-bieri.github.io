@@ -1,6 +1,7 @@
 * {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 2vmin;
+    font-size: 3vmin;
+    font-weight: 300;
 }
 
 html {
@@ -11,6 +12,7 @@ html {
 .navbar {
     border-color: #6698ff;
     background-color: white;
+    font-size: 2.5vmin;
 }
 
 .navbar .navbar-toggle {
@@ -67,12 +69,16 @@ html {
 }
 
 .main {
-    padding-top: 70px;
+    padding-top: 20vmin;
+    padding-bottom: 20vmin;
 }
 
-.main p {
-    padding-top: 3vmin;
-    font-size: 3vmin;
+h2 {
+    font-weight: 700;
+}
+
+.section {
+    padding-top: 5vmin;
 }
 
 #logo > img {
