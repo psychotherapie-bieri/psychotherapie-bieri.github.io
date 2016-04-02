@@ -6731,13 +6731,13 @@ button.close {
   border-bottom: 3px solid #6698ff;
 }
 .navbar-collapse.collapsing > ul > li > a {
-  font-size: 7vmin;
+  font-size: 5vmin;
   border-bottom: 0;
 }
 .navbar-collapse.collapsing > ul > li.active > a {
   border-bottom: 0;
 }
 .navbar-collapse.collapse.in > ul > li > a {
-  font-size: 7vmin;
+  font-size: 5vmin;
   border-bottom: 0;
 }
