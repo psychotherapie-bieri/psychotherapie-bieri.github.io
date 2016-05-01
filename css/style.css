@@ -25,3 +25,13 @@ img {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+a:hover, a:visited, a:link, a:active {
+    color: #6698ff;
+    text-decoration: none;
+}
+
+.map {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
