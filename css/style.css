@@ -35,3 +35,11 @@ a:hover, a:visited, a:link, a:active {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+.role {
+    font-weight: 400;
+}
+
+.margin-top-xs {
+    margin-top: 0.5em;
+}
