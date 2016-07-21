@@ -43,3 +43,7 @@ a:hover, a:visited, a:link, a:active {
 .margin-top-xs {
     margin-top: 0.5em;
 }
+
+.name {
+    margin-bottom: 0;
+}
