@@ -44,6 +44,20 @@ a:hover, a:visited, a:link, a:active {
     margin-top: 0.5em;
 }
 
+.margin-top-sm {
+    margin-top: 1em;
+}
+
 .name {
     margin-bottom: 0;
+}
+
+.logo {
+    position: fixed;
+    top: 10px;
+    left: 15px;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    z-index: 0;
 }
