@@ -61,3 +61,11 @@ a:hover, a:visited, a:link, a:active {
     padding: 0;
     z-index: 0;
 }
+
+.no-left-padding {
+    padding-left: 0 !important;
+}
+
+.no-right-padding {
+    padding-right: 0 !important;
+}
